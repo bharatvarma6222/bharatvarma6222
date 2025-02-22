@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @bharatvarma6222
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me bharatvarma6222@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: stun seeed
+- ⚡ Fun fact: stun seeed⚡
 - 
 
 <!---

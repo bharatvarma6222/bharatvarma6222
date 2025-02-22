@@ -5,7 +5,7 @@
 - 📫 How to reach me bharatvarma6222@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: stun seeed⚡
-- 
+
 
 <!---
 bharatvarma6222/bharatvarma6222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
